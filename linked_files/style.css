@@ -1,0 +1,17 @@
+
+/* Sizing for A2G logo */
+.navbar-brand img{
+	width: 45px;
+	margin-top: -8px;
+
+}
+/* Tab coloring */
+/*.nav-tabs{
+  background-color:#161616;
+}*/
+
+.navbar {
+	background-color: #006600;
+}
+
+
